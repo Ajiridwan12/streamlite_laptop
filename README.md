@@ -63,7 +63,6 @@ import seaborn as sns
 df = pd.read_csv("laptop_data_cleaned.csv")
 df.head()
 ```
-![Alt text](A.png)
 
 ```bash
 plt.figure(figsize=(10,8))
